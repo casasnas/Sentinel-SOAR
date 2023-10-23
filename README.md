@@ -4,7 +4,7 @@ Orchestration, Automation and Response for Azure Sentinel
 
 ## The Orchestrator
 
-![](https://i.pinimg.com/736x/25/f9/48/25f948ce22eb72de579fc048d81825a0--the-storm-tempo.jpg)
+![](https://bleedingfool.com/wp-content/uploads/2020/11/whiplash.jpg)
 
 The Orchestrator is found in Sentinel's Automation rules. These rules can trigger conditionals on every alert or incident creation. If these conditionals turn out to be true, the Orchestrator can do the following:
 
