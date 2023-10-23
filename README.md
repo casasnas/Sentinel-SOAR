@@ -20,7 +20,9 @@ In the context of SOAR, we are mainly interested in calling upon logic apps and 
 
 ![](https://comicvine.gamespot.com/a/uploads/original/10/104794/2242216-eve_wall_e_11444456_885_370.jpg)
 
-Azure Logic Apps are usually used to automate workflows and business processes. In Azure Sentinel, they are given the colloquial name of "Playbooks". Traditionally, response teams followed strict playbooks when dealing with security incidents. Under the SOAR framework, we should look to replicate these practices when producing logic apps. 
+Azure Logic Apps are usually used to automate workflows and business processes. In Azure Sentinel, they are given the colloquial name of "Playbooks". Traditionally, response teams followed strict playbooks when dealing with security incidents. 
+
+Under the SOAR framework, we should look to replicate these practices when producing logic apps. 
 
 ## Response
 
