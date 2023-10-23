@@ -4,9 +4,9 @@ Orchestration, Automation and Response for Azure Sentinel
 
 ## The Orchestrator
 
-![](https://media.tenor.com/Q2b-Sd2wqC0AAAAC/terence-fletcher-whiplash.gif)
+![](https://media.tenor.com/BYEFsf3x6oAAAAAC/whiplash-fletcher.gif)
 
-The Orchestrator is found in Sentinel's Automation rules. These rules can trigger conditionals on every alert or incident creation. If these conditionals are turn out to be true, the Orchestrator can do the following:
+The Orchestrator is found in Sentinel's Automation rules. These rules can trigger conditionals on every alert or incident creation. If these conditionals turn out to be true, the Orchestrator can do the following:
 
 - Call upon and run logic apps (playbooks)
 - Change incident severity
@@ -18,7 +18,7 @@ In the context of SOAR, we are mainly interested in calling upon logic apps and 
 
 ## Automation
 
-![](https://media.tenor.com/9nGMGByFWegAAAAC/wall-e-eve.gif)
+![](https://comicvine.gamespot.com/a/uploads/original/10/104794/2242216-eve_wall_e_11444456_885_370.jpg)
 
 Azure Logic Apps are usually used to automate workflows and business processes. In Azure Sentinel, they are given the colloquial name of "Playbooks". Traditionally, response teams followed strict playbooks when dealing with security incidents. Under the SOAR framework, we should look to replicate these practices when producing logic apps. 
 
